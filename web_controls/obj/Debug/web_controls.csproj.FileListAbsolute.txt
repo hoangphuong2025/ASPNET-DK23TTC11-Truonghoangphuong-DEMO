@@ -1,0 +1,229 @@
+D:\myproject\web_eportal\web_controls\bin\Debug\web_controls.dll
+D:\myproject\web_eportal\web_controls\bin\Debug\web_controls.pdb
+D:\myproject\web_eportal\web_controls\bin\Debug\NLog.dll
+D:\myproject\web_eportal\web_controls\bin\Debug\web_connection.dll
+D:\myproject\web_eportal\web_controls\bin\Debug\web_model.dll
+D:\myproject\web_eportal\web_controls\bin\Debug\web_util.dll
+D:\myproject\web_eportal\web_controls\bin\Debug\web_connection.pdb
+D:\myproject\web_eportal\web_controls\bin\Debug\web_model.pdb
+D:\myproject\web_eportal\web_controls\bin\Debug\web_util.pdb
+D:\myproject\web_eportal\web_controls\bin\Debug\NLog.xml
+D:\myproject\web_eportal\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\myproject\web_eportal\web_controls\obj\Debug\web_controls.dll
+D:\myproject\web_eportal\web_controls\obj\Debug\web_controls.pdb
+D:\myproject\web_portal\web_controls\bin\Debug\web_controls.dll
+D:\myproject\web_portal\web_controls\bin\Debug\web_controls.pdb
+D:\myproject\web_portal\web_controls\bin\Debug\NLog.dll
+D:\myproject\web_portal\web_controls\bin\Debug\web_connection.dll
+D:\myproject\web_portal\web_controls\bin\Debug\web_model.dll
+D:\myproject\web_portal\web_controls\bin\Debug\web_util.dll
+D:\myproject\web_portal\web_controls\bin\Debug\web_connection.pdb
+D:\myproject\web_portal\web_controls\bin\Debug\web_model.pdb
+D:\myproject\web_portal\web_controls\bin\Debug\web_util.pdb
+D:\myproject\web_portal\web_controls\bin\Debug\NLog.xml
+D:\myproject\web_portal\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\myproject\web_portal\web_controls\obj\Debug\web_controls.dll
+D:\myproject\web_portal\web_controls\obj\Debug\web_controls.pdb
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_controls.dll
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_controls.pdb
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_connection.dll
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_model.dll
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_util.dll
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_connection.pdb
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_model.pdb
+D:\project 2017\web_9hd\web_controls\bin\Debug\web_util.pdb
+D:\project 2017\web_9hd\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2017\web_9hd\web_controls\obj\Debug\web_controls.dll
+D:\project 2017\web_9hd\web_controls\obj\Debug\web_controls.pdb
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_controls.dll
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_controls.pdb
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_connection.dll
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_model.dll
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_util.dll
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_connection.pdb
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_model.pdb
+D:\project 2017\web_ntv\web_controls\bin\Debug\web_util.pdb
+D:\project 2017\web_ntv\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2017\web_ntv\web_controls\obj\Debug\web_controls.dll
+D:\project 2017\web_ntv\web_controls\obj\Debug\web_controls.pdb
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_controls.dll
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_controls.pdb
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_connection.dll
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_model.dll
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_util.dll
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_connection.pdb
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_model.pdb
+D:\project 2017\web_diemaybinhchanh\web_controls\bin\Debug\web_util.pdb
+D:\project 2017\web_diemaybinhchanh\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2017\web_diemaybinhchanh\web_controls\obj\Debug\web_controls.dll
+D:\project 2017\web_diemaybinhchanh\web_controls\obj\Debug\web_controls.pdb
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_controls.dll
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_controls.pdb
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_connection.dll
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_model.dll
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_util.dll
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_connection.pdb
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_model.pdb
+D:\project 2017\web_thoitrangandien\web_controls\bin\Debug\web_util.pdb
+D:\project 2017\web_thoitrangandien\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2017\web_thoitrangandien\web_controls\obj\Debug\web_controls.dll
+D:\project 2017\web_thoitrangandien\web_controls\obj\Debug\web_controls.pdb
+D:\project 2017\web_congty\web_controls\bin\Debug\web_controls.dll
+D:\project 2017\web_congty\web_controls\bin\Debug\web_controls.pdb
+D:\project 2017\web_congty\web_controls\bin\Debug\web_connection.dll
+D:\project 2017\web_congty\web_controls\bin\Debug\web_model.dll
+D:\project 2017\web_congty\web_controls\bin\Debug\web_util.dll
+D:\project 2017\web_congty\web_controls\bin\Debug\web_connection.pdb
+D:\project 2017\web_congty\web_controls\bin\Debug\web_model.pdb
+D:\project 2017\web_congty\web_controls\bin\Debug\web_util.pdb
+D:\project 2017\web_congty\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2017\web_congty\web_controls\obj\Debug\web_controls.dll
+D:\project 2017\web_congty\web_controls\obj\Debug\web_controls.pdb
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_controls.dll
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_controls.pdb
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\NLog.dll
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_connection.dll
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_model.dll
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_util.dll
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_connection.pdb
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_model.pdb
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\web_util.pdb
+D:\project 2018\web_edenfoods\web_controls\bin\Debug\NLog.xml
+D:\project 2018\web_edenfoods\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2018\web_edenfoods\web_controls\obj\Debug\web_controls.dll
+D:\project 2018\web_edenfoods\web_controls\obj\Debug\web_controls.pdb
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_controls.dll
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_controls.pdb
+D:\project 2018\web_congchung\web_controls\bin\Debug\NLog.dll
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_connection.dll
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_model.dll
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_util.dll
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_connection.pdb
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_model.pdb
+D:\project 2018\web_congchung\web_controls\bin\Debug\web_util.pdb
+D:\project 2018\web_congchung\web_controls\bin\Debug\NLog.xml
+D:\project 2018\web_congchung\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2018\web_congchung\web_controls\obj\Debug\web_controls.dll
+D:\project 2018\web_congchung\web_controls\obj\Debug\web_controls.pdb
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_controls.dll
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_controls.pdb
+D:\project 2019\web_quiluc\web_controls\bin\Debug\NLog.dll
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_connection.dll
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_model.dll
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_util.dll
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_connection.pdb
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_model.pdb
+D:\project 2019\web_quiluc\web_controls\bin\Debug\web_util.pdb
+D:\project 2019\web_quiluc\web_controls\bin\Debug\NLog.xml
+D:\project 2019\web_quiluc\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2019\web_quiluc\web_controls\obj\Debug\web_controls.dll
+D:\project 2019\web_quiluc\web_controls\obj\Debug\web_controls.pdb
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_controls.dll
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_controls.pdb
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\NLog.dll
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_connection.dll
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_model.dll
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_util.dll
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_connection.pdb
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_model.pdb
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\web_util.pdb
+D:\project 2019\web_thienphuhuong\web_controls\bin\Debug\NLog.xml
+D:\project 2019\web_thienphuhuong\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2019\web_thienphuhuong\web_controls\obj\Debug\web_controls.dll
+D:\project 2019\web_thienphuhuong\web_controls\obj\Debug\web_controls.pdb
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_controls.dll
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_controls.pdb
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\NLog.dll
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_connection.dll
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_model.dll
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_util.dll
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_connection.pdb
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_model.pdb
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\web_util.pdb
+D:\project 2020\web_hangcantim\web_controls\bin\Debug\NLog.xml
+D:\project 2020\web_hangcantim\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2020\web_hangcantim\web_controls\obj\Debug\web_controls.dll
+D:\project 2020\web_hangcantim\web_controls\obj\Debug\web_controls.pdb
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_controls.dll
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_controls.pdb
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\NLog.dll
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_connection.dll
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_model.dll
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_util.dll
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_connection.pdb
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_model.pdb
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\web_util.pdb
+D:\project 2022\web_hangcantim\web_controls\bin\Debug\NLog.xml
+D:\project 2022\web_hangcantim\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2022\web_hangcantim\web_controls\obj\Debug\web_controls.dll
+D:\project 2022\web_hangcantim\web_controls\obj\Debug\web_controls.pdb
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_controls.dll
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_controls.pdb
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\NLog.dll
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_connection.dll
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_model.dll
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_util.dll
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_connection.pdb
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_model.pdb
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\web_util.pdb
+D:\project 2022\web_giadung24h\web_controls\bin\Debug\NLog.xml
+D:\project 2022\web_giadung24h\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2022\web_giadung24h\web_controls\obj\Debug\web_controls.dll
+D:\project 2022\web_giadung24h\web_controls\obj\Debug\web_controls.pdb
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_controls.dll
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_controls.pdb
+D:\project 2022\web_achauedu\web_controls\bin\Debug\NLog.dll
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_connection.dll
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_model.dll
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_util.dll
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_connection.pdb
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_model.pdb
+D:\project 2022\web_achauedu\web_controls\bin\Debug\web_util.pdb
+D:\project 2022\web_achauedu\web_controls\bin\Debug\NLog.xml
+D:\project 2022\web_achauedu\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+D:\project 2022\web_achauedu\web_controls\obj\Debug\web_controls.dll
+D:\project 2022\web_achauedu\web_controls\obj\Debug\web_controls.pdb
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_controls.dll
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_controls.pdb
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_connection.dll
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_model.dll
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_util.dll
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_connection.pdb
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_model.pdb
+G:\project 2022\web_achauedu\web_controls\bin\Debug\web_util.pdb
+G:\project 2022\web_achauedu\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+G:\project 2022\web_achauedu\web_controls\obj\Debug\web_controls.dll
+G:\project 2022\web_achauedu\web_controls\obj\Debug\web_controls.pdb
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_controls.dll
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_controls.pdb
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_connection.dll
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_model.dll
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_util.dll
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_connection.pdb
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_model.pdb
+G:\project 2024\mkai\web_mkai\web_controls\bin\Debug\web_util.pdb
+G:\project 2024\mkai\web_mkai\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+G:\project 2024\mkai\web_mkai\web_controls\obj\Debug\web_controls.dll
+G:\project 2024\mkai\web_mkai\web_controls\obj\Debug\web_controls.pdb
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_controls.dll
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_controls.pdb
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_connection.dll
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_model.dll
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_util.dll
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_connection.pdb
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_model.pdb
+G:\project 2025\web_nuocda\web_controls\bin\Debug\web_util.pdb
+G:\project 2025\web_nuocda\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+G:\project 2025\web_nuocda\web_controls\obj\Debug\web_controls.dll
+G:\project 2025\web_nuocda\web_controls\obj\Debug\web_controls.pdb
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_controls.dll
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_controls.pdb
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_connection.dll
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_model.dll
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_util.dll
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_connection.pdb
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_model.pdb
+G:\project 2025\web_bancafe\web_controls\bin\Debug\web_util.pdb
+G:\project 2025\web_bancafe\web_controls\obj\Debug\web_controls.csprojResolveAssemblyReference.cache
+G:\project 2025\web_bancafe\web_controls\obj\Debug\web_controls.dll
+G:\project 2025\web_bancafe\web_controls\obj\Debug\web_controls.pdb

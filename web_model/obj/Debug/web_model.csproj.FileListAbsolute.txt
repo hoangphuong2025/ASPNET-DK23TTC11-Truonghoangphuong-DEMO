@@ -1,0 +1,76 @@
+D:\myproject\web_eportal\web_model\bin\Debug\web_model.dll
+D:\myproject\web_eportal\web_model\bin\Debug\web_model.pdb
+D:\myproject\web_eportal\web_model\obj\Debug\web_model.dll
+D:\myproject\web_eportal\web_model\obj\Debug\web_model.pdb
+D:\myproject\web_portal\web_model\bin\Debug\web_model.dll
+D:\myproject\web_portal\web_model\bin\Debug\web_model.pdb
+D:\myproject\web_portal\web_model\obj\Debug\web_model.dll
+D:\myproject\web_portal\web_model\obj\Debug\web_model.pdb
+D:\project 2017\web_9hd\web_model\bin\Debug\web_model.dll
+D:\project 2017\web_9hd\web_model\bin\Debug\web_model.pdb
+D:\project 2017\web_9hd\web_model\obj\Debug\web_model.dll
+D:\project 2017\web_9hd\web_model\obj\Debug\web_model.pdb
+D:\project 2017\web_ntv\web_model\bin\Debug\web_model.dll
+D:\project 2017\web_ntv\web_model\bin\Debug\web_model.pdb
+D:\project 2017\web_ntv\web_model\obj\Debug\web_model.dll
+D:\project 2017\web_ntv\web_model\obj\Debug\web_model.pdb
+D:\project 2017\web_diemaybinhchanh\web_model\bin\Debug\web_model.dll
+D:\project 2017\web_diemaybinhchanh\web_model\bin\Debug\web_model.pdb
+D:\project 2017\web_diemaybinhchanh\web_model\obj\Debug\web_model.dll
+D:\project 2017\web_diemaybinhchanh\web_model\obj\Debug\web_model.pdb
+D:\project 2017\web_thoitrangandien\web_model\bin\Debug\web_model.dll
+D:\project 2017\web_thoitrangandien\web_model\bin\Debug\web_model.pdb
+D:\project 2017\web_thoitrangandien\web_model\obj\Debug\web_model.dll
+D:\project 2017\web_thoitrangandien\web_model\obj\Debug\web_model.pdb
+D:\project 2017\web_congty\web_model\bin\Debug\web_model.dll
+D:\project 2017\web_congty\web_model\bin\Debug\web_model.pdb
+D:\project 2017\web_congty\web_model\obj\Debug\web_model.dll
+D:\project 2017\web_congty\web_model\obj\Debug\web_model.pdb
+D:\project 2018\web_edenfoods\web_model\bin\Debug\web_model.dll
+D:\project 2018\web_edenfoods\web_model\bin\Debug\web_model.pdb
+D:\project 2018\web_edenfoods\web_model\obj\Debug\web_model.dll
+D:\project 2018\web_edenfoods\web_model\obj\Debug\web_model.pdb
+D:\project 2018\web_congchung\web_model\bin\Debug\web_model.dll
+D:\project 2018\web_congchung\web_model\bin\Debug\web_model.pdb
+D:\project 2018\web_congchung\web_model\obj\Debug\web_model.dll
+D:\project 2018\web_congchung\web_model\obj\Debug\web_model.pdb
+D:\project 2019\web_quiluc\web_model\bin\Debug\web_model.dll
+D:\project 2019\web_quiluc\web_model\bin\Debug\web_model.pdb
+D:\project 2019\web_quiluc\web_model\obj\Debug\web_model.dll
+D:\project 2019\web_quiluc\web_model\obj\Debug\web_model.pdb
+D:\project 2019\web_thienphuhuong\web_model\bin\Debug\web_model.dll
+D:\project 2019\web_thienphuhuong\web_model\bin\Debug\web_model.pdb
+D:\project 2019\web_thienphuhuong\web_model\obj\Debug\web_model.dll
+D:\project 2019\web_thienphuhuong\web_model\obj\Debug\web_model.pdb
+D:\project 2020\web_hangcantim\web_model\bin\Debug\web_model.dll
+D:\project 2020\web_hangcantim\web_model\bin\Debug\web_model.pdb
+D:\project 2020\web_hangcantim\web_model\obj\Debug\web_model.dll
+D:\project 2020\web_hangcantim\web_model\obj\Debug\web_model.pdb
+D:\project 2022\web_hangcantim\web_model\bin\Debug\web_model.dll
+D:\project 2022\web_hangcantim\web_model\bin\Debug\web_model.pdb
+D:\project 2022\web_hangcantim\web_model\obj\Debug\web_model.dll
+D:\project 2022\web_hangcantim\web_model\obj\Debug\web_model.pdb
+D:\project 2022\web_giadung24h\web_model\bin\Debug\web_model.dll
+D:\project 2022\web_giadung24h\web_model\bin\Debug\web_model.pdb
+D:\project 2022\web_giadung24h\web_model\obj\Debug\web_model.dll
+D:\project 2022\web_giadung24h\web_model\obj\Debug\web_model.pdb
+D:\project 2022\web_achauedu\web_model\bin\Debug\web_model.dll
+D:\project 2022\web_achauedu\web_model\bin\Debug\web_model.pdb
+D:\project 2022\web_achauedu\web_model\obj\Debug\web_model.dll
+D:\project 2022\web_achauedu\web_model\obj\Debug\web_model.pdb
+G:\project 2022\web_achauedu\web_model\bin\Debug\web_model.dll
+G:\project 2022\web_achauedu\web_model\bin\Debug\web_model.pdb
+G:\project 2022\web_achauedu\web_model\obj\Debug\web_model.dll
+G:\project 2022\web_achauedu\web_model\obj\Debug\web_model.pdb
+G:\project 2024\mkai\web_mkai\web_model\bin\Debug\web_model.dll
+G:\project 2024\mkai\web_mkai\web_model\bin\Debug\web_model.pdb
+G:\project 2024\mkai\web_mkai\web_model\obj\Debug\web_model.dll
+G:\project 2024\mkai\web_mkai\web_model\obj\Debug\web_model.pdb
+G:\project 2025\web_nuocda\web_model\bin\Debug\web_model.dll
+G:\project 2025\web_nuocda\web_model\bin\Debug\web_model.pdb
+G:\project 2025\web_nuocda\web_model\obj\Debug\web_model.dll
+G:\project 2025\web_nuocda\web_model\obj\Debug\web_model.pdb
+G:\project 2025\web_bancafe\web_model\bin\Debug\web_model.dll
+G:\project 2025\web_bancafe\web_model\bin\Debug\web_model.pdb
+G:\project 2025\web_bancafe\web_model\obj\Debug\web_model.dll
+G:\project 2025\web_bancafe\web_model\obj\Debug\web_model.pdb

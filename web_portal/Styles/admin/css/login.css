@@ -1,0 +1,113 @@
+.Header {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #ffffff; COLOR: #003399; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse;text-decoration:none; 
+}
+.HeaderTotalMKTRs {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: #000000; COLOR: yellow; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center
+}
+.HeaderRsTrade {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: #000000; COLOR: yellow; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: left
+}
+.Header1 {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BORDER-LEFT-COLOR: #669999; BACKGROUND: #000000; BORDER-BOTTOM-COLOR: #669999; COLOR: yellow; BORDER-TOP-COLOR: #669999; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center; BORDER-RIGHT-COLOR: #669999
+}
+.Header2 {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #dcdcdc; COLOR: navy; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center
+}
+.ChkListStock {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #000000; COLOR: #33ff00; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center
+}
+.ChkListStock2 {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #ffffff; COLOR: navy; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center
+}
+.ChkStock {
+	WIDTH: 7%; TEXT-ALIGN: left
+}
+.ChkStock2 {
+	WIDTH: 7%; TEXT-ALIGN: left
+}
+.Dukienkhoplenh {
+	BACKGROUND: #ffffff; WIDTH: 0px
+}
+.Dakhoplenh {
+	BACKGROUND: #000000; WIDTH: 4%
+}
+.Giam {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: #000000; COLOR: #ff0033; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center
+}
+.Dungyen {
+	PADDING-RIGHT: 1px; FONT-WEIGHT: bold; FONT-SIZE: 14px; BACKGROUND: #000000; COLOR: yellow; FONT-FAMILY: 'Arial'; BORDER-COLLAPSE: collapse; TEXT-ALIGN: center
+}
+.EvenColFloor {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BORDER-LEFT-COLOR: #669999; BACKGROUND: #000000; BORDER-BOTTOM-COLOR: #669999; COLOR: #33ffff; BORDER-TOP-COLOR: #669999; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right; BORDER-RIGHT-COLOR: #669999
+}
+.EvenColCeiling {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BORDER-LEFT-COLOR: #669999; BACKGROUND: #000000; BORDER-BOTTOM-COLOR: #669999; COLOR: #ff00ff; BORDER-TOP-COLOR: #669999; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right; BORDER-RIGHT-COLOR: #669999
+}
+.EvenColFloor2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #dcdcdc; COLOR: #0099ff; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.EvenColCeiling2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #dcdcdc; COLOR: #ff00ff; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.OddColFloor {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #000000; COLOR: #000000; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.OddColCeiling {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #000000; COLOR: #ff00ff; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.EvenRow1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BORDER-LEFT-COLOR: #669999; BACKGROUND: #000000; BORDER-BOTTOM-COLOR: #669999; COLOR: yellow; BORDER-TOP-COLOR: #669999; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right; BORDER-RIGHT-COLOR: #669999
+}
+.EvenRow2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #dcdcdc; COLOR: navy; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.OddRow1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #000000; COLOR: yellow; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.OddRow2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #000000; COLOR: yellow; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.Thaydoi {
+	BACKGROUND: #ffffff; COLOR: #3300ff
+}
+.Thaydoi2 {
+	BACKGROUND: yellow; COLOR: #3300ff
+}
+.button_selectcss
+{
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: #000000; COLOR: yellow; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.buttton_cs
+{
+  FONT-WEIGHT: bold; FONT-SIZE: 12px; BACKGROUND: mediumblue; COLOR: #ffffff; FONT-FAMILY: 'Arial'; TEXT-ALIGN: right
+}
+.zpStandard {
+	MARGIN-TOP: 0px; FONT-SIZE: 14px; MARGIN-LEFT: 0px; COLOR: #000000; MARGIN-RIGHT: auto; FONT-FAMILY: arial;
+}
+.zpStandardok {
+	FONT-WEIGHT: bold;MARGIN-TOP: 0px; FONT-SIZE: 14px; MARGIN-LEFT: 0px; COLOR: Red; MARGIN-RIGHT: auto; FONT-FAMILY: arial;
+}
+.vientable
+{
+border-width:1px;
+border-style:solid;
+border-color:#0033FF;
+padding-left:1px;
+padding-right:1px;
+padding-top:1px;
+padding-bottom:1px;}
+.TextTitleHeader 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:14px;
+	font-weight:bold;
+	color:#CC3333;
+	text-transform:uppercase;
+}
+.back_button {
+   	font-family:Verdana;
+	font-size:11px;
+	color:#000000;
+	height:22px;
+	border:1px solid #999999;
+}

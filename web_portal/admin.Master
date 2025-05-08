@@ -1,0 +1,108 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin.master.cs" Inherits="web_portal.admin"  %>
+<%@ Register Src="~/webadmin/webcontrol/leftuser.ascx" TagName="left" TagPrefix="uc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head id="Head1" runat="server">
+    <title>QUAN LY WEBSITE</title>
+    <meta http-equiv="pragma" content="no-cache" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate" />
+    <meta content="index,follow" name="robots" />
+    <meta name="RESOURCE-TYPE" content="DOCUMENT" />
+    <meta name="DISTRIBUTION" content="GLOBAL" />
+    <meta name="AUTHOR" content="edenifoods.com" />
+    <meta name="COPYRIGHT" content="Copyright (c) by " />
+    <meta name="RATING" content="GENERAL" />
+    
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="GENERATOR" content="edenifoods.com" /> 
+    <meta name="keyowrd" content="" />
+    <meta name="Description" content=" " /> 
+
+</head>
+<link href="../styles/admin/css/styleadmin.css?nguid=<%=DateTime.Now.Ticks.ToString()%>" rel="stylesheet" type="text/css" />     
+<script language="javascript" src="../styles/admin/css/admin_script.js" type="text/javascript"></script>	
+<script type="text/javascript"  src="../styles/admin/css/calendar.js"></script>
+<body  background="../styles/admin/images/bg.jpg" style="padding-top:0px; margin-top:0px; padding-bottom:0px; margin-bottom:0px;">
+  <form id="form1" runat="server">   
+         <div align=left>       
+          <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center"> 
+            
+            <tr>
+                <td align="right" style="background-color: #bcbcbc;padding-top: 1px;padding-bottom:1px">
+                    <table cellpadding="0" cellspacing="0" width="100%" border="0">
+                         <tr>
+                             <td style="padding: 10px 10px 10px 10px">
+                                 <img  id="imgSessionCheck" src="../styles/images/icon/li_icon.jpg" style="background-color: #ffffff;color: #ff0000" width="10" height="10"/>
+                                   <script type="text/javascript" >
+                                       //Variable used to prevent caching on some browsers and knowing the count how many times user sends request to server.
+                                       var counter;
+                                       counter = 0;
+
+                                       function KeepSession() {
+
+                                           // Increase counter value
+                                           counter++;
+
+                                           // Gets reference of image
+                                           var img = document.getElementById("imgSessionCheck");
+                                           if (img != null) {
+
+                                               // Set new src value, which will send a request to the server
+                                               img.src = "../styles/images/icon/li_icon.jpg?count=" + counter;
+                                               img.alt = counter;
+                                               img.title = counter;
+                                               // now schedule this process to happen in some time interval, in this example its 1 min
+                                               setTimeout(KeepSession, 6000);
+                                           }
+                                       }
+
+                                       // Call this function for a first time
+                                       KeepSession();
+                                    </script>
+                             
+                             </td>
+                             <td align="right" style="color: #ffffff">Người đăng nhập :</td>
+                             <td align="center"><asp:Label runat="server" ID="labbeluser" ></asp:Label></td>
+                             <td align="center" style=";color: #ffffff">Lần đăng nhập sau cùng :</td>
+                             <td style="font-weight:700;color:#444444" align="center"><asp:Label runat="server" ID="labeltimelogin" ></asp:Label></td>
+                             <td align="center" style="width: 40px;cursor: pointer" onclick="window.location.href='login.aspx?act=logout'"><img vspace="4" hspace="4" src="../styles/admin/images/logout.png"></td>
+                         </tr>
+                    </table>
+                </td>
+            </tr>
+           
+            <tr>
+                <td style="padding-left:5px;">
+                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                        <tr>
+                            <td  style="width: 20%; text-align: left;background-color:#eeeeee"
+                                valign="top">
+                                <uc1:left id="left" runat="server">
+                                </uc1:left></td>                            
+                            <td style="width: 78%;" valign="top" align="center" >
+                               <table width="100%" height="100%" border="0" cellspacing="0" cellpadding="0" class="vientable">
+<tr>
+<td valign="top" align="center">
+                                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                       
+        </asp:ContentPlaceHolder>
+                               </td>
+                               </tr>
+                               </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td height="66px" align="center">
+                    <br />
+                </td>
+            </tr>
+        </table>
+        </div>
+    </form>
+</body>
+</html>

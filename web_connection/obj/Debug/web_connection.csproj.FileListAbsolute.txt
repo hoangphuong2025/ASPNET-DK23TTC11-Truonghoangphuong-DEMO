@@ -1,0 +1,87 @@
+D:\myproject\web_eportal\web_connection\bin\Debug\web_connection.dll
+D:\myproject\web_eportal\web_connection\bin\Debug\web_connection.pdb
+D:\myproject\web_eportal\web_connection\bin\Debug\NLog.dll
+D:\myproject\web_eportal\web_connection\bin\Debug\NLog.xml
+D:\myproject\web_eportal\web_connection\obj\Debug\web_connection.dll
+D:\myproject\web_eportal\web_connection\obj\Debug\web_connection.pdb
+D:\myproject\web_portal\web_connection\bin\Debug\web_connection.dll
+D:\myproject\web_portal\web_connection\bin\Debug\web_connection.pdb
+D:\myproject\web_portal\web_connection\bin\Debug\NLog.dll
+D:\myproject\web_portal\web_connection\bin\Debug\NLog.xml
+D:\myproject\web_portal\web_connection\obj\Debug\web_connection.dll
+D:\myproject\web_portal\web_connection\obj\Debug\web_connection.pdb
+D:\myproject\web_portal\web_connection\obj\Debug\web_connection.csprojResolveAssemblyReference.cache
+D:\project 2017\web_9hd\web_connection\bin\Debug\web_connection.dll
+D:\project 2017\web_9hd\web_connection\bin\Debug\web_connection.pdb
+D:\project 2017\web_9hd\web_connection\obj\Debug\web_connection.dll
+D:\project 2017\web_9hd\web_connection\obj\Debug\web_connection.pdb
+D:\project 2017\web_ntv\web_connection\bin\Debug\web_connection.dll
+D:\project 2017\web_ntv\web_connection\bin\Debug\web_connection.pdb
+D:\project 2017\web_ntv\web_connection\obj\Debug\web_connection.dll
+D:\project 2017\web_ntv\web_connection\obj\Debug\web_connection.pdb
+D:\project 2017\web_ntv\web_connection\obj\Debug\web_connection.csprojResolveAssemblyReference.cache
+D:\project 2017\web_diemaybinhchanh\web_connection\bin\Debug\web_connection.dll
+D:\project 2017\web_diemaybinhchanh\web_connection\bin\Debug\web_connection.pdb
+D:\project 2017\web_diemaybinhchanh\web_connection\obj\Debug\web_connection.dll
+D:\project 2017\web_diemaybinhchanh\web_connection\obj\Debug\web_connection.pdb
+D:\project 2017\web_diemaybinhchanh\web_connection\obj\Debug\web_connection.csprojResolveAssemblyReference.cache
+D:\project 2017\web_thoitrangandien\web_connection\bin\Debug\web_connection.dll
+D:\project 2017\web_thoitrangandien\web_connection\bin\Debug\web_connection.pdb
+D:\project 2017\web_thoitrangandien\web_connection\obj\Debug\web_connection.dll
+D:\project 2017\web_thoitrangandien\web_connection\obj\Debug\web_connection.pdb
+D:\project 2017\web_congty\web_connection\bin\Debug\web_connection.dll
+D:\project 2017\web_congty\web_connection\bin\Debug\web_connection.pdb
+D:\project 2017\web_congty\web_connection\obj\Debug\web_connection.dll
+D:\project 2017\web_congty\web_connection\obj\Debug\web_connection.pdb
+D:\project 2017\web_congty\web_connection\obj\Debug\web_connection.csprojResolveAssemblyReference.cache
+D:\project 2018\web_edenfoods\web_connection\bin\Debug\web_connection.dll
+D:\project 2018\web_edenfoods\web_connection\bin\Debug\web_connection.pdb
+D:\project 2018\web_edenfoods\web_connection\obj\Debug\web_connection.dll
+D:\project 2018\web_edenfoods\web_connection\obj\Debug\web_connection.pdb
+D:\project 2018\web_congchung\web_connection\bin\Debug\web_connection.dll
+D:\project 2018\web_congchung\web_connection\bin\Debug\web_connection.pdb
+D:\project 2018\web_congchung\web_connection\obj\Debug\web_connection.dll
+D:\project 2018\web_congchung\web_connection\obj\Debug\web_connection.pdb
+D:\project 2018\web_congchung\web_connection\obj\Debug\web_connection.csprojResolveAssemblyReference.cache
+D:\project 2019\web_quiluc\web_connection\bin\Debug\web_connection.dll
+D:\project 2019\web_quiluc\web_connection\bin\Debug\web_connection.pdb
+D:\project 2019\web_quiluc\web_connection\obj\Debug\web_connection.dll
+D:\project 2019\web_quiluc\web_connection\obj\Debug\web_connection.pdb
+D:\project 2019\web_thienphuhuong\web_connection\bin\Debug\web_connection.dll
+D:\project 2019\web_thienphuhuong\web_connection\bin\Debug\web_connection.pdb
+D:\project 2019\web_thienphuhuong\web_connection\obj\Debug\web_connection.dll
+D:\project 2019\web_thienphuhuong\web_connection\obj\Debug\web_connection.pdb
+D:\project 2019\web_thienphuhuong\web_connection\obj\Debug\web_connection.csprojResolveAssemblyReference.cache
+D:\project 2020\web_hangcantim\web_connection\bin\Debug\web_connection.dll
+D:\project 2020\web_hangcantim\web_connection\bin\Debug\web_connection.pdb
+D:\project 2020\web_hangcantim\web_connection\obj\Debug\web_connection.dll
+D:\project 2020\web_hangcantim\web_connection\obj\Debug\web_connection.pdb
+D:\project 2022\web_hangcantim\web_connection\bin\Debug\web_connection.dll
+D:\project 2022\web_hangcantim\web_connection\bin\Debug\web_connection.pdb
+D:\project 2022\web_hangcantim\web_connection\obj\Debug\web_connection.csprojResolveAssemblyReference.cache
+D:\project 2022\web_hangcantim\web_connection\obj\Debug\web_connection.dll
+D:\project 2022\web_hangcantim\web_connection\obj\Debug\web_connection.pdb
+D:\project 2022\web_giadung24h\web_connection\bin\Debug\web_connection.dll
+D:\project 2022\web_giadung24h\web_connection\bin\Debug\web_connection.pdb
+D:\project 2022\web_giadung24h\web_connection\obj\Debug\web_connection.dll
+D:\project 2022\web_giadung24h\web_connection\obj\Debug\web_connection.pdb
+D:\project 2022\web_achauedu\web_connection\bin\Debug\web_connection.dll
+D:\project 2022\web_achauedu\web_connection\bin\Debug\web_connection.pdb
+D:\project 2022\web_achauedu\web_connection\obj\Debug\web_connection.dll
+D:\project 2022\web_achauedu\web_connection\obj\Debug\web_connection.pdb
+G:\project 2022\web_achauedu\web_connection\bin\Debug\web_connection.dll
+G:\project 2022\web_achauedu\web_connection\bin\Debug\web_connection.pdb
+G:\project 2022\web_achauedu\web_connection\obj\Debug\web_connection.dll
+G:\project 2022\web_achauedu\web_connection\obj\Debug\web_connection.pdb
+G:\project 2024\mkai\web_mkai\web_connection\bin\Debug\web_connection.dll
+G:\project 2024\mkai\web_mkai\web_connection\bin\Debug\web_connection.pdb
+G:\project 2024\mkai\web_mkai\web_connection\obj\Debug\web_connection.dll
+G:\project 2024\mkai\web_mkai\web_connection\obj\Debug\web_connection.pdb
+G:\project 2025\web_nuocda\web_connection\bin\Debug\web_connection.dll
+G:\project 2025\web_nuocda\web_connection\bin\Debug\web_connection.pdb
+G:\project 2025\web_nuocda\web_connection\obj\Debug\web_connection.dll
+G:\project 2025\web_nuocda\web_connection\obj\Debug\web_connection.pdb
+G:\project 2025\web_bancafe\web_connection\bin\Debug\web_connection.dll
+G:\project 2025\web_bancafe\web_connection\bin\Debug\web_connection.pdb
+G:\project 2025\web_bancafe\web_connection\obj\Debug\web_connection.dll
+G:\project 2025\web_bancafe\web_connection\obj\Debug\web_connection.pdb

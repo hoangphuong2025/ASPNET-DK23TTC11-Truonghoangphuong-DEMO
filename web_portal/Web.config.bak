@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  For more information on how to configure your ASP.NET application, please visit
+  http://go.microsoft.com/fwlink/?LinkId=169433
+  -->
+
+<configuration>
+  <appSettings>
+    <add key="SessionWarning" value="100" />
+    <add key="TOP" value="5" />
+    <add key="BACKUPFILENAME" value="resources/thumb" />
+    <add key="BACKUPSERVERNAME" value="web_congty" />
+    <add key="FOLDERDATABASE" value="resources/thumb" />
+    <add key="LANGUAGEDEFAULT" value="vi" />
+    <add key="PAGESIZE" value="9" />
+    <add key="PAGESIZEWEB" value="10" />
+    <add key="PAGESIZEPRODUCT" value="12" />
+    <add key="emailsend" value="" />
+    <add key="emailto" value="" />
+    <add key="emailtocc" value="" />
+    <add key="emailtobb" value="" />
+    <add key="emailpass" value="quankhung!@#$%zxc" />
+    <add key="titleemail" value="" />
+    <add key="smtphost" value="" />
+    <add key="companyid" value="1" />
+    <add key="owndatabase" value="" />
+    <add key="parserhtml" value="no" />
+    <add key="cultureinfo" value="en-US" />
+    <add key="generalhtmlurl" value="http://localhost/webcafe" />
+  </appSettings>
+  <connectionStrings> 
+    <add name="strConnection" connectionString="Database=web_cafenet;
+                    Server=DESKTOP-A8A0K3N;Uid=sa;Pwd=sa;pooling=false;"/>
+  </connectionStrings>
+
+  <system.web>
+    <trust level="Full" />
+    <pages validateRequest="false" enableViewStateMac="false" enableEventValidation="false">
+      <controls>
+        <add tagPrefix="asp" namespace="System.Web.UI" assembly="System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+      </controls>
+    </pages>
+    <compilation debug="true" />
+    <httpHandlers>
+      <remove verb="*" path="*.asmx" />
+      
+      <add verb="*" path="*.asmx" validate="false" type="System.Web.Script.Services.ScriptHandlerFactory, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+      <add verb="GET,HEAD" path="ScriptResource.axd" type="System.Web.Handlers.ScriptResourceHandler, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" validate="false" />
+      <add verb="GET" path="FtbWebResource.axd" type="FreeTextBoxControls.AssemblyResourceHandler, FreeTextBox" />
+    </httpHandlers>
+    <httpModules>
+      <add name="ScriptModule" type="System.Web.Handlers.ScriptModule, System.Web.Extensions, Version=1.0.61025.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
+      <add verb="GET" path="FtbWebResource.axd" type="FreeTextBoxControls.AssemblyResourceHandler, FreeTextBox" />		
+    </httpModules>
+    
+    <authentication mode="Forms">
+      <forms loginUrl="~/webadmin/login.aspx" timeout="2880" />
+    </authentication>
+
+    <membership>
+      <providers>
+        <clear />
+        <add name="AspNetSqlMembershipProvider" type="System.Web.Security.SqlMembershipProvider" connectionStringName="ApplicationServices" enablePasswordRetrieval="false" enablePasswordReset="true" requiresQuestionAndAnswer="false" requiresUniqueEmail="false" maxInvalidPasswordAttempts="5" minRequiredPasswordLength="6" minRequiredNonalphanumericCharacters="0" passwordAttemptWindow="10" applicationName="/" />
+      </providers>
+    </membership>
+    <httpRuntime requestValidationMode="2.0" />
+    <profile>
+      <providers>
+        <clear />
+        <add name="AspNetSqlProfileProvider" type="System.Web.Profile.SqlProfileProvider" connectionStringName="ApplicationServices" applicationName="/" />
+      </providers>
+    </profile>
+
+    <roleManager enabled="false">
+      <providers>
+        <clear />
+        <add name="AspNetSqlRoleProvider" type="System.Web.Security.SqlRoleProvider" connectionStringName="ApplicationServices" applicationName="/" />
+        <add name="AspNetWindowsTokenRoleProvider" type="System.Web.Security.WindowsTokenRoleProvider" applicationName="/" />
+      </providers>
+    </roleManager>
+    <customErrors mode="Off" defaultRedirect="">
+      <error statusCode="403" redirect="NoAccess.htm" />
+      <error statusCode="404" redirect="FileNotFound.aspx" />
+    </customErrors>
+  </system.web>
+
+  <system.webServer>
+    
+    <validation validateIntegratedModeConfiguration="false" />
+    <modules runAllManagedModulesForAllRequests="true" />
+        <directoryBrowse enabled="false" showFlags="Date, Time, Size, Extension, LongDate" />
+        <defaultDocument>
+            <files>
+                <clear />
+                <add value="index.htm" />
+                <add value="default.aspx" />
+            </files>
+        </defaultDocument>
+    <staticContent>
+      <remove fileExtension=".woff" />
+      <mimeMap fileExtension=".woff" mimeType="application/font-woff" />
+      
+    </staticContent>
+  </system.webServer>
+</configuration>

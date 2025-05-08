@@ -1,0 +1,71 @@
+ 
+.partner-jcarousel .jcarousel-clip
+{    	
+	width:1000px;
+	height:235px;
+	float:left;
+	padding:1px 0px;
+	margin:0;	
+	
+}
+.partner-jcarousel ul li
+{    
+	width:330px;	
+	padding-right:5px;
+	margin:0;
+	text-align:center;
+	
+}
+.partner-jcarousel .partner-jcarousel-last
+{
+	padding:0;
+	margin:0;
+}
+
+.partner-jcarousel .prev
+{
+    display: none;
+	width:5px;
+	padding-top:0px;
+	padding-left:0px;
+	float:left;
+	text-align:left;
+	cursor:pointer;
+}
+.partner-jcarousel .next
+{
+    display: none;
+	width:5px;
+	padding-top:5px;
+	padding-right:0px;
+	float:right;
+	text-align:right;
+	cursor:pointer;
+}
+
+.partner-jcarousel ul li h3{
+	padding:5px 0px;
+	font-size:12px;
+}
+.partner-jcarousel ul li h3 a {
+	color:#3d3d3d;	
+}
+.partner-jcarousel ul li .img  {
+	border:0px solid #c9c9c9;
+	padding:0px;
+	text-align:center;	 
+	
+}
+
+.partner-jcarousel ul li .price {
+	color:#ff0000 ;
+	font-weight:bold;
+}
+
+
+.partner-jcarousel ul li.noItem  {
+	width:280px;
+	padding-top:45px;
+	text-align:center;
+	color:#FF0000;
+}
