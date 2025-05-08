@@ -1,0 +1,87 @@
+D:\myproject\web_eportal\web_util\bin\Debug\web_util.dll
+D:\myproject\web_eportal\web_util\bin\Debug\web_util.pdb
+D:\myproject\web_eportal\web_util\bin\Debug\NLog.dll
+D:\myproject\web_eportal\web_util\bin\Debug\NLog.xml
+D:\myproject\web_eportal\web_util\obj\Debug\web_util.dll
+D:\myproject\web_eportal\web_util\obj\Debug\web_util.pdb
+D:\myproject\web_portal\web_util\bin\Debug\web_util.dll
+D:\myproject\web_portal\web_util\bin\Debug\web_util.pdb
+D:\myproject\web_portal\web_util\bin\Debug\NLog.dll
+D:\myproject\web_portal\web_util\bin\Debug\NLog.xml
+D:\myproject\web_portal\web_util\obj\Debug\web_util.dll
+D:\myproject\web_portal\web_util\obj\Debug\web_util.pdb
+D:\myproject\web_portal\web_util\obj\Debug\web_util.csprojResolveAssemblyReference.cache
+D:\project 2017\web_9hd\web_util\bin\Debug\web_util.dll
+D:\project 2017\web_9hd\web_util\bin\Debug\web_util.pdb
+D:\project 2017\web_9hd\web_util\obj\Debug\web_util.dll
+D:\project 2017\web_9hd\web_util\obj\Debug\web_util.pdb
+D:\project 2017\web_ntv\web_util\bin\Debug\web_util.dll
+D:\project 2017\web_ntv\web_util\bin\Debug\web_util.pdb
+D:\project 2017\web_ntv\web_util\obj\Debug\web_util.dll
+D:\project 2017\web_ntv\web_util\obj\Debug\web_util.pdb
+D:\project 2017\web_ntv\web_util\obj\Debug\web_util.csprojResolveAssemblyReference.cache
+D:\project 2017\web_diemaybinhchanh\web_util\bin\Debug\web_util.dll
+D:\project 2017\web_diemaybinhchanh\web_util\bin\Debug\web_util.pdb
+D:\project 2017\web_diemaybinhchanh\web_util\obj\Debug\web_util.dll
+D:\project 2017\web_diemaybinhchanh\web_util\obj\Debug\web_util.pdb
+D:\project 2017\web_diemaybinhchanh\web_util\obj\Debug\web_util.csprojResolveAssemblyReference.cache
+D:\project 2017\web_thoitrangandien\web_util\bin\Debug\web_util.dll
+D:\project 2017\web_thoitrangandien\web_util\bin\Debug\web_util.pdb
+D:\project 2017\web_thoitrangandien\web_util\obj\Debug\web_util.dll
+D:\project 2017\web_thoitrangandien\web_util\obj\Debug\web_util.pdb
+D:\project 2017\web_congty\web_util\bin\Debug\web_util.dll
+D:\project 2017\web_congty\web_util\bin\Debug\web_util.pdb
+D:\project 2017\web_congty\web_util\obj\Debug\web_util.dll
+D:\project 2017\web_congty\web_util\obj\Debug\web_util.pdb
+D:\project 2017\web_congty\web_util\obj\Debug\web_util.csprojResolveAssemblyReference.cache
+D:\project 2018\web_edenfoods\web_util\bin\Debug\web_util.dll
+D:\project 2018\web_edenfoods\web_util\bin\Debug\web_util.pdb
+D:\project 2018\web_edenfoods\web_util\obj\Debug\web_util.dll
+D:\project 2018\web_edenfoods\web_util\obj\Debug\web_util.pdb
+D:\project 2018\web_congchung\web_util\bin\Debug\web_util.dll
+D:\project 2018\web_congchung\web_util\bin\Debug\web_util.pdb
+D:\project 2018\web_congchung\web_util\obj\Debug\web_util.dll
+D:\project 2018\web_congchung\web_util\obj\Debug\web_util.pdb
+D:\project 2018\web_congchung\web_util\obj\Debug\web_util.csprojResolveAssemblyReference.cache
+D:\project 2019\web_quiluc\web_util\bin\Debug\web_util.dll
+D:\project 2019\web_quiluc\web_util\bin\Debug\web_util.pdb
+D:\project 2019\web_quiluc\web_util\obj\Debug\web_util.dll
+D:\project 2019\web_quiluc\web_util\obj\Debug\web_util.pdb
+D:\project 2019\web_thienphuhuong\web_util\bin\Debug\web_util.dll
+D:\project 2019\web_thienphuhuong\web_util\bin\Debug\web_util.pdb
+D:\project 2019\web_thienphuhuong\web_util\obj\Debug\web_util.dll
+D:\project 2019\web_thienphuhuong\web_util\obj\Debug\web_util.pdb
+D:\project 2019\web_thienphuhuong\web_util\obj\Debug\web_util.csprojResolveAssemblyReference.cache
+D:\project 2020\web_hangcantim\web_util\bin\Debug\web_util.dll
+D:\project 2020\web_hangcantim\web_util\bin\Debug\web_util.pdb
+D:\project 2020\web_hangcantim\web_util\obj\Debug\web_util.dll
+D:\project 2020\web_hangcantim\web_util\obj\Debug\web_util.pdb
+D:\project 2022\web_hangcantim\web_util\bin\Debug\web_util.dll
+D:\project 2022\web_hangcantim\web_util\bin\Debug\web_util.pdb
+D:\project 2022\web_hangcantim\web_util\obj\Debug\web_util.csprojResolveAssemblyReference.cache
+D:\project 2022\web_hangcantim\web_util\obj\Debug\web_util.dll
+D:\project 2022\web_hangcantim\web_util\obj\Debug\web_util.pdb
+D:\project 2022\web_giadung24h\web_util\bin\Debug\web_util.dll
+D:\project 2022\web_giadung24h\web_util\bin\Debug\web_util.pdb
+D:\project 2022\web_giadung24h\web_util\obj\Debug\web_util.dll
+D:\project 2022\web_giadung24h\web_util\obj\Debug\web_util.pdb
+D:\project 2022\web_achauedu\web_util\bin\Debug\web_util.dll
+D:\project 2022\web_achauedu\web_util\bin\Debug\web_util.pdb
+D:\project 2022\web_achauedu\web_util\obj\Debug\web_util.dll
+D:\project 2022\web_achauedu\web_util\obj\Debug\web_util.pdb
+G:\project 2022\web_achauedu\web_util\bin\Debug\web_util.dll
+G:\project 2022\web_achauedu\web_util\bin\Debug\web_util.pdb
+G:\project 2022\web_achauedu\web_util\obj\Debug\web_util.dll
+G:\project 2022\web_achauedu\web_util\obj\Debug\web_util.pdb
+G:\project 2024\mkai\web_mkai\web_util\bin\Debug\web_util.dll
+G:\project 2024\mkai\web_mkai\web_util\bin\Debug\web_util.pdb
+G:\project 2024\mkai\web_mkai\web_util\obj\Debug\web_util.dll
+G:\project 2024\mkai\web_mkai\web_util\obj\Debug\web_util.pdb
+G:\project 2025\web_nuocda\web_util\bin\Debug\web_util.dll
+G:\project 2025\web_nuocda\web_util\bin\Debug\web_util.pdb
+G:\project 2025\web_nuocda\web_util\obj\Debug\web_util.dll
+G:\project 2025\web_nuocda\web_util\obj\Debug\web_util.pdb
+G:\project 2025\web_bancafe\web_util\bin\Debug\web_util.dll
+G:\project 2025\web_bancafe\web_util\bin\Debug\web_util.pdb
+G:\project 2025\web_bancafe\web_util\obj\Debug\web_util.dll
+G:\project 2025\web_bancafe\web_util\obj\Debug\web_util.pdb
